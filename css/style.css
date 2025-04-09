@@ -1,0 +1,71 @@
+
+h1{
+     color: black;
+     text-align: center;
+     margin: 50px;
+}
+
+.p{
+     display: inline;
+     color: black;
+
+}
+#head1{
+     font-size: 40px;
+     color: black;
+}
+.header{
+     height: 20px;
+     background-color: goldenrod;
+     text-align: center;
+
+}
+.wrapper{
+     overflow: hidden;
+     border: 10px solid green;
+     margin: 40px;
+
+}
+.blog{
+     float: left;
+     width: 70%;
+     height: 150px;
+     background-color: gold;
+}
+.contact{
+     float: right;
+     width: 25%;
+     height: 150px;
+     background-color: blue;
+    
+}
+.container{
+     overflow: hidden;
+}
+.item1{
+     float: left;
+     width: 33.33%;
+     height: 130px;
+     background-color: silver;
+     text-align: center;
+}
+.item2{
+     float: left;
+     width: 33.33%;
+     height: 130px;
+     background-color: aliceblue;
+     text-align: center;
+}
+.item3{
+     float: left;
+     width: 33.33%;
+     height: 130px;
+     background-color: paleturquoise;
+     text-align: center;
+}
+.footer{
+     height: 100px;
+     background-color: orange;
+     text-align: center;
+     margin: 30px;
+}
